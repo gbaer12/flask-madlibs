@@ -1,5 +1,6 @@
 body {
     background-color: lightcoral;
+    text-align: center;
 }
 
 #content{
@@ -7,5 +8,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     font-family: Papyrus, fantasy;
 }
+
